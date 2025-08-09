@@ -1,0 +1,5 @@
+{
+  "@pi-tray/builtin": "https://github.com/Pi-Tray/builtin-plugins",
+  "@pi-tray/ghost": "https://github.com/Pi-Tray/ghost-plugins#release",
+  "@pi-tray/voicemeeter": "https://github.com/Pi-Tray/voicemeeter-plugins#release"
+}
